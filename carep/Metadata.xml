@@ -2,7 +2,7 @@
 <package
   name="carep"
   version="2.1.41"
-  location="https://github.com/syncrosim/packages/releases/download/2.1.41/dgsim-2-1-41.ssimpkg"
+  location="https://github.com/syncrosim/packages/releases/download/2.1.41/carep-2-1-41.ssimpkg"
   description="Caribou Energy Protein Model"
   url="http://www.apexrms.com">
 </package>
