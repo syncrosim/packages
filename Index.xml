@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package
-  name="carep"
-  version="2.1.41"
-  location="https://github.com/ApexRMS/carep/releases/download/2.1.41/carep-2-1-41.ssimpkg"
-  description="Caribou Energy Protein Model"
-  url="http://www.apexrms.com">
-</package>
-<?xml version="1.0" encoding="utf-8" ?>
-<package
-  name="dgsim"
-  version="2.1.40"
-  location="https://github.com/ApexRMS/dgsim/releases/download/2.1.40/dgsim-2-1-40.ssimpkg"
-  description="Wildlife Population Demographics Simulator"
-  url="http://www.apexrms.com">
-</package>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<packages>
+  <package
+    name="carep"
+    version="2.1.41"
+    location="https://github.com/ApexRMS/carep/releases/download/2.1.41/carep-2-1-41.ssimpkg"
+    description="Caribou Energy Protein Model"
+    url="http://www.apexrms.com">
+  </package>
+  <package
+    name="dgsim"
+    version="2.1.40"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.1.40/dgsim-2-1-40.ssimpkg"
+    description="Wildlife Population Demographics Simulator"
+    url="http://www.apexrms.com">
+  </package>
+</packages>
