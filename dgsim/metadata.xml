@@ -3,6 +3,6 @@
   name="dgsim"
   version="2.1.40"
   location="https://github.com/ApexRMS/dgsim/releases/download/2.1.40/dgsim-2-1-40.ssimpkg"
-  description="Wildlife Population Demographics Simulator"
+  description="Population Demographics Simulator Package"
   url="https://github.com/ApexRMS/dgsim">
 </package>
