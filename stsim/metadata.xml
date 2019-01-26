@@ -3,6 +3,6 @@
   name="stsim"
   version="3.2.0"
   location="https://github.com/ApexRMS/stsim/releases/download/3.2.0/stsim-3-2-0.ssimpkg"
-  description="ST-Sim State and Transition Model"
+  description="ST-Sim State and Transition Model Package"
   url="https://github.com/ApexRMS/stsim">
 </package>

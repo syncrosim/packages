@@ -2,29 +2,38 @@
 <packages>
   <package
     name="carce"
-    version="1.0.13"
-    location="https://github.com/ApexRMS/carce/releases/download/1.0.13/carce-1-0-13.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/carce/releases/download/1.1.0/carce-1-1-0.ssimpkg"
     description="Caribou Cumulative Effects Package"
+    requires="carep carmove dgsim"
     url="https://github.com/ApexRMS/carce">
   </package>
   <package
     name="carep"
-    version="2.1.41"
-    location="https://github.com/ApexRMS/carep/releases/download/2.1.41/carep-2-1-41.ssimpkg"
+    version="2.2.0"
+    location="https://github.com/ApexRMS/carep/releases/download/2.2.0/carep-2-2-0.ssimpkg"
     description="Caribou Energy Protein Package"
     url="https://github.com/ApexRMS/carep">
   </package>
   <package
     name="carmove"
-    version="1.0.13"
-    location="https://github.com/ApexRMS/carmove/releases/download/2.1.40/carmove-1-0-13.ssimpkg"
-    description="Caribou Movement Model"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/carmove/releases/download/1.1.0/carmove-1-1-0.ssimpkg"
+    description="Caribou Movement Model Package"
     url="https://github.com/ApexRMS/carmove">
   </package>
   <package
+    name="conn-cons"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/stsim-stockflow/releases/download/1.1.0/conn-cons-1-1-0.ssimpkg"
+    description="Connectivity Conservation Package"
+    requires="stsim"
+    url="https://github.com/ApexRMS/conn-cons">
+  </package>
+  <package
     name="dgsim"
-    version="2.1.40"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.1.40/dgsim-2-1-40.ssimpkg"
+    version="2.2.0"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.0/dgsim-2-2-0.ssimpkg"
     description="Population Demographics Simulator Package"
     url="https://github.com/ApexRMS/dgsim">
   </package>
@@ -32,7 +41,7 @@
     name="stsim"
     version="3.2.0"
     location="https://github.com/ApexRMS/stsim/releases/download/3.2.0/stsim-3-2-0.ssimpkg"
-    description="ST-Sim State and Transition Model"
+    description="ST-Sim State and Transition Model Package"
     url="https://github.com/ApexRMS/stsim">
   </package>
   <package
