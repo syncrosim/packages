@@ -2,7 +2,7 @@
 <package
   name="stsim-stockflow"
   version="3.2.0"
-  location="https://github.com/ApexRMS/carce/releases/download/3.2.0/stsim-stockflow-3-2-0.ssimpkg"
+  location="https://github.com/ApexRMS/stsim-stockflow/releases/download/3.2.0/stsim-stockflow-3-2-0.ssimpkg"
   description="Stocks and Flows Add-On for ST-Sim"
   requires="stsim"
   url="https://github.com/ApexRMS/stsim-stockflow">
