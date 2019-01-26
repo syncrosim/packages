@@ -25,7 +25,7 @@
   <package
     name="conn-cons"
     version="1.1.0"
-    location="https://github.com/ApexRMS/stsim-stockflow/releases/download/1.1.0/conn-cons-1-1-0.ssimpkg"
+    location="https://github.com/ApexRMS/conn-cons/releases/download/1.1.0/conn-cons-1-1-0.ssimpkg"
     description="Connectivity Conservation Package"
     requires="stsim"
     url="https://github.com/ApexRMS/conn-cons">
