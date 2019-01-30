@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<packages>
+  <package
+    name="dgsim"
+    version="2.2.0"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.0/dgsim-2-2-0.ssimpkg"
+    description="Population Demographics Simulator Package"
+    url="https://github.com/ApexRMS/dgsim">
+  </package>
+  <package
+    name="stsim"
+    version="3.2.0"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.0/stsim-3-2-0.ssimpkg"
+    description="ST-Sim State and Transition Model Package"
+    url="https://github.com/ApexRMS/stsim">
+  </package>
+</packages>
