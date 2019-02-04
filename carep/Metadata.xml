@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package
   name="carep"
-  version="2.2.0"
-  location="https://github.com/ApexRMS/carep/releases/download/2.2.0/carep-2-2-0.ssimpkg"
-  description="Caribou Energy Protein Package"
+  version="2.1.4"
+  location="https://github.com/ApexRMS/carep/releases/download/2.1.4/carep-2-1-4.ssimpkg"
+  description="SyncroSim Base Package for simulating the energy and protein dynamics of caribou."
   url="https://github.com/ApexRMS/carep">
 </package>

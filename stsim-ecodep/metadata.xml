@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package
+  name="stsim-ecodep"
+  version="3.1.42"
+  location="https://github.com/ApexRMS/stsim-ecodep/releases/download/3.1.42/stsim-ecodep-3-1-42.ssimpkg"
+  description="SyncroSim Add-On Package (to stsim) for calculating ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class."
+  requires="stsim"
+  url="https://github.com/ApexRMS/stsim-ecodep">
+</package>

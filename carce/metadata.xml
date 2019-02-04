@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package
   name="carce"
-  version="1.1.0"
-  location="https://github.com/ApexRMS/carce/releases/download/1.1.0/carce-1-1-0.ssimpkg"
-  description="Caribou Cumulative Effects Package"
+  version="1.0.12"
+  location="https://github.com/ApexRMS/carce/releases/download/1.0.12/carce-1-0-12.ssimpkg"
+  description="SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou."
   requires="carep carmove dgsim"
   url="https://github.com/ApexRMS/carce">
 </package>

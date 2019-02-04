@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package
+  name="netlogo"
+  version="1.0.13"
+  location="https://github.com/ApexRMS/netlogo/releases/download/1.0.13/netlogo-1-0-13.ssimpkg"
+  description="SyncroSim Base Package for running the NetLogo agent-based modeling environment."
+  url="https://github.com/ApexRMS/netlogo">
+</package>
