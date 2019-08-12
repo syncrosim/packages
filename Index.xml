@@ -1,101 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <packages>
   <package
-    name="carce"
-    version="1.0.12"
-    location="https://github.com/ApexRMS/carce/releases/download/1.0.12/carce-1-0-12.ssimpkg"
-    description="SyncroSim Base Package for simulating the cumulative effects of development and climate change on caribou."
-    requires="carep carmove dgsim"
-    url="https://github.com/ApexRMS/carce">
-  </package>
-  <package
-    name="carep"
-    version="2.1.4"
-    location="https://github.com/ApexRMS/carep/releases/download/2.1.4/carep-2-1-4.ssimpkg"
-    description="SyncroSim Base Package for simulating the energy and protein dynamics of caribou."
-    url="https://github.com/ApexRMS/carep">
-  </package>
-  <package
-    name="carmove"
-    version="1.0.12"
-    location="https://github.com/ApexRMS/carmove/releases/download/1.0.12/carmove-1-0-12.ssimpkg"
-    description="SyncroSim Base Package for simulating the movement of caribou across a landscape."
-    url="https://github.com/ApexRMS/carmove">
-  </package>
-  <package
-    name="conn-cons"
-    version="1.0.13"
-    location="https://github.com/ApexRMS/conn-cons/releases/download/1.0.13/conn-cons-1-0-13.ssimpkg"
-    description="SyncroSim Base Package for identifying conservation priorities based on habitat connectivity."
-    requires="stsim"
-    url="https://github.com/ApexRMS/conn-cons">
-  </package>
-  <package
-    name="cscape"
-    version="1.0.13"
-    location="https://github.com/ApexRMS/cscape/releases/download/1.0.13/cscape-1-0-13.ssimpkg"
-    description="SyncroSim Base Package for running the Circuitscape landscape connectivity analysis program."
-    url="https://github.com/ApexRMS/cscape">
+    name="demosales"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.0.0/demosales-1-0-0.ssimpkg"
+    type="Base"
+    description="Demo Sales SyncroSim Base Package"
+    url="https://github.com/ApexRMS/demosales">
   </package>
   <package
     name="dgsim"
-    version="2.1.39"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.1.39/dgsim-2-1-39.ssimpkg"
-    description="SyncroSim Base Package for simulating demographics of wildlife populations."
+    version="2.2.4"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.4/dgsim-2-2-4.ssimpkg"
+    type="Base"
+    description="Simulates demographics of wildlife populations"
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
-    name="netlogo"
-    version="1.0.13"
-    location="https://github.com/ApexRMS/netlogo/releases/download/1.0.13/netlogo-1-0-13.ssimpkg"
-    description="SyncroSim Base Package for running the NetLogo agent-based modeling environment."
-    url="https://github.com/ApexRMS/netlogo">
+    name="lucas"
+    version="1.0.2"
+    location="https://github.com/bsleeter/lucas/releases/download/1.0.2/lucas-1-0-2.ssimpkg"
+    type="Base"
+    description="Land Use and Carbon Scenario Simulator (LUCAS)"
+    requires="stsim"
+    url="https://github.com/bsleeter/lucas">
   </package>
   <package
     name="stsim"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.1.42/stsim-3-1-42.ssimpkg"
-    description="SyncroSim Base Package for developing state-and-transition simulation models using ST-Sim."
+    version="3.2.6"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.6/stsim-3-2-6.ssimpkg"
+    type="Base"
+    description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
   </package>
   <package
-    name="stsim-dmult"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim-dmult/releases/download/3.1.42/stsim-dmult-3-1-42.ssimpkg"
-    description="SyncroSim Add-On Package (to stsim) for generating dynamic multipliers in ST-Sim."
-    requires="stsim"
-    url="https://github.com/ApexRMS/stsim-dmult">
+   name="stsimcbmcfs3"
+   version="1.0.3"
+   location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.3/stsimcbmcfs3-1-0-3.ssimpkg"
+   type="Add-on to stsim"
+   description="Integrates the Carbon Budget Model for the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model"
+   requires="stsim stsimsf"
+   url="https://github.com/ApexRMS/stsimcbmcfs3">
   </package>
   <package
-    name="stsim-ecodep"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim-ecodep/releases/download/3.1.42/stsim-ecodep-3-1-42.ssimpkg"
-    description="SyncroSim Add-On Package (to stsim) for calculating ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class."
+    name="stsimdmult"
+    version="3.2.3"
+    location="https://github.com/ApexRMS/stsimdmult/releases/download/3.2.3/stsimdmult-3-2-3.ssimpkg"
+    type="Add-on to stsim"
+    description="Generates dynamic multipliers in ST-Sim"
     requires="stsim"
-    url="https://github.com/ApexRMS/stsim-ecodep">
+    url="https://github.com/ApexRMS/stsimdmult">
   </package>
   <package
-    name="stsim-farsite"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim-farsite/releases/download/3.1.42/stsim-farsite-3-1-42.ssimpkg"
-    description="SyncroSim Add-On Package (to stsim) for using the FARSITE fire model with ST-Sim."
+    name="stsimecodep"
+    version="3.2.3"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.2.3/stsimecodep-3-2-3.ssimpkg"
+    type="Add-on to stsim"
+    description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class"
     requires="stsim"
-    url="https://github.com/ApexRMS/stsim-farsite">
+    url="https://github.com/ApexRMS/stsimecodep">
   </package>
   <package
-    name="stsim-prms"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim-prms/releases/download/3.1.42/stsim-prms-3-1-42.ssimpkg"
-    description="SyncroSim Add-On Package (to stsim) that supports the integration of the PRMS hydrologic model with ST-Sim."
+    name="stsimsf"
+    version="3.2.6"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.6/stsimsf-3-2-6.ssimpkg"
+    type="Add-on to stsim"
+    description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
-    url="https://github.com/ApexRMS/stsim-prms">
-  </package>
-  <package
-    name="stsim-stockflow"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim-stockflow/releases/download/3.1.42/stsim-stockflow-3-1-42.ssimpkg"
-    description="SyncroSim Add-On Package (to stsim) for integrating stocks and flows into state-and-transition simulation models in ST-Sim."
-    requires="stsim"
-    url="https://github.com/ApexRMS/stsim-stockflow">
+    url="https://github.com/ApexRMS/stsimsf">
   </package>
 </packages>

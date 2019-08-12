@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="stsimecodep"
+  version="3.2.3"
+  location="https://github.com/ApexRMS/stsimecodep/releases/download/3.2.3/stsimecodep-3-2-3.ssimpkg"
+  type="Add-on to stsim"
+  description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class"
+  requires="stsim"
+  url="https://github.com/ApexRMS/stsimecodep">
+</package>

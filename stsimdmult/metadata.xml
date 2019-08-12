@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="stsimdmult"
+  version="3.2.3"
+  location="https://github.com/ApexRMS/stsimdmult/releases/download/3.2.3/stsimdmult-3-2-3.ssimpkg"
+  type="Add-on to stsim"
+  description="Generates dynamic multipliers in ST-Sim"
+  requires="stsim"
+  url="https://github.com/ApexRMS/stsimdmult">
+</package>

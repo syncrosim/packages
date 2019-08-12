@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package
-  name="carmove"
-  version="1.0.12"
-  location="https://github.com/ApexRMS/carmove/releases/download/1.0.12/carmove-1-0-12.ssimpkg"
-  description="SyncroSim Base Package for simulating the movement of caribou across a landscape."
-  url="https://github.com/ApexRMS/carmove">
-</package>

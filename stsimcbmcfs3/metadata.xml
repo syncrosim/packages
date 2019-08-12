@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+ name="stsimcbmcfs3"
+ version="1.0.3"
+ location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.3/stsimcbmcfs3-1-0-3.ssimpkg"
+ type="Add-on to stsim"
+ description="Integrates the Carbon Budget Model for the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model"
+ requires="stsim stsimsf"
+ url="https://github.com/ApexRMS/stsimcbmcfs3">
+</package>

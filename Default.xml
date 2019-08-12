@@ -2,16 +2,23 @@
 <packages>
   <package
     name="dgsim"
-    version="2.1.39"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.1.39/dgsim-2-1-39.ssimpkg"
-    description="SyncroSim Base Package for simulating demographics of wildlife populations."
+    version="2.2.4"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.4/dgsim-2-2-4.ssimpkg"
+    description="Simulates demographics of wildlife populations"
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
     name="stsim"
-    version="3.1.42"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.1.42/stsim-3-1-42.ssimpkg"
-    description="SyncroSim Base Package for developing state-and-transition simulation models using ST-Sim."
+    version="3.2.6"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.6/stsim-3-2-6.ssimpkg"
+    description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
+  </package>
+  <package
+    name="demosales"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.0.0/demosales-1-0-0.ssimpkg"
+    description="Demo Sales SyncroSim Base Package"
+    url="https://github.com/ApexRMS/demosales">
   </package>
 </packages>

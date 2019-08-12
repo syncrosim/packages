@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package
-  name="stsim-dmult"
-  version="3.1.42"
-  location="https://github.com/ApexRMS/stsim-dmult/releases/download/3.1.42/stsim-dmult-3-1-42.ssimpkg"
-  description="SyncroSim Add-On Package (to stsim) for generating dynamic multipliers in ST-Sim."
-  requires="stsim"
-  url="https://github.com/ApexRMS/stsim-dmult">
-</package>

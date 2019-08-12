@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="demosales"
+  version="1.0.0"
+  location="https://github.com/ApexRMS/demosales/releases/download/1.0.0/demosales-1-0-0.ssimpkg"
+  type="Base"
+  description="Demo Sales SyncroSim Base Package"
+  url="https://github.com/ApexRMS/demosales">
+</package>

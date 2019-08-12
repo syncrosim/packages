@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package
+  name="lucas"
+  version="1.0.2"
+  location="https://github.com/bsleeter/lucas/releases/download/1.0.2/lucas-1-0-2.ssimpkg"
+  type="Base"
+  description="Land Use and Carbon Scenario Simulator (LUCAS)"
+  requires="stsim"
+  url="https://github.com/bsleeter/lucas">
+</package>

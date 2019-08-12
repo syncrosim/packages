@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="stsim"
-  version="3.1.42"
-  location="https://github.com/ApexRMS/stsim/releases/download/3.1.42/stsim-3-1-42.ssimpkg"
-  description="SyncroSim Base Package for developing state-and-transition simulation models using ST-Sim."
+  version="3.2.6"
+  location="https://github.com/ApexRMS/stsim/releases/download/3.2.6/stsim-3-2-6.ssimpkg"
+  type="Base"
+  description="The ST-Sim state-and-transition simulation model"
   url="https://github.com/ApexRMS/stsim">
 </package>

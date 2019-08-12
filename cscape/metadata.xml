@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<package
-  name="cscape"
-  version="1.0.13"
-  location="https://github.com/ApexRMS/cscape/releases/download/1.0.13/cscape-1-0-13.ssimpkg"
-  description="SyncroSim Base Package for running the Circuitscape landscape connectivity analysis program."
-  url="https://github.com/ApexRMS/cscape">
-</package>
