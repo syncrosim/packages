@@ -17,30 +17,12 @@
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
-    name="lucas"
-    version="1.0.2"
-    location="https://github.com/bsleeter/lucas/releases/download/1.0.2/lucas-1-0-2.ssimpkg"
-    type="Base"
-    description="Land Use and Carbon Scenario Simulator (LUCAS)"
-    requires="stsim"
-    url="https://github.com/bsleeter/lucas">
-  </package>
-  <package
     name="stsim"
     version="3.2.6"
     location="https://github.com/ApexRMS/stsim/releases/download/3.2.6/stsim-3-2-6.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
-  </package>
-  <package
-   name="stsimcbmcfs3"
-   version="1.0.3"
-   location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.3/stsimcbmcfs3-1-0-3.ssimpkg"
-   type="Add-on to stsim"
-   description="Integrates the Carbon Budget Model for the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model"
-   requires="stsim stsimsf"
-   url="https://github.com/ApexRMS/stsimcbmcfs3">
   </package>
   <package
     name="stsimdmult"
