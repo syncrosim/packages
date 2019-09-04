@@ -2,7 +2,7 @@
 <package
   name="stsim"
   version="3.2.7"
-  location="https://github.com/ApexRMS/stsim/releases/download/v3.2.7/stsim-3-2-7.ssimpkg"
+  location="https://github.com/ApexRMS/stsim/releases/download/3.2.7/stsim-3-2-7.ssimpkg"
   type="Base"
   description="The ST-Sim state-and-transition simulation model"
   url="https://github.com/ApexRMS/stsim">
