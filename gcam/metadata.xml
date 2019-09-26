@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="gcam"
+  version="1.0.0"
+  location="https://github.com/ApexRMS/gcam/releases/download/1.0.0/gcam-1-0-0.ssimpkg"
+  type="Base"
+  description="Global Change Assessment Model (GCAM)"
+  url="https://github.com/ApexRMS/gcam">
+</package>
