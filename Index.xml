@@ -2,8 +2,8 @@
 <packages>
   <package
     name="demosales"
-    version="1.0.1"
-    location="https://github.com/ApexRMS/demosales/releases/download/1.0.1/demosales-1-0-1.ssimpkg"
+    version="1.0.2"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.0.2/demosales-1-0-2.ssimpkg"
     type="Base"
     description="Example SyncroSim Base Package of a very simple sales forecasting model"
     url="https://github.com/ApexRMS/demosales">
@@ -33,9 +33,17 @@
     url="https://github.com/ApexRMS/helloworld">
   </package>
   <package
+    name="netlogo"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.0/netlogo-1-1-0.ssimpkg"
+    type="Base"
+    description="Runs the NetLogo agent-based modeling environment"
+    url="https://github.com/ApexRMS/netlogo">
+  </package>
+  <package
     name="stsim"
-    version="3.2.10"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.10/stsim-3-2-10.ssimpkg"
+    version="3.2.11"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.11/stsim-3-2-11.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">

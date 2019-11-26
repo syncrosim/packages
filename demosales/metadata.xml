@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="demosales"
-  version="1.0.1"
-  location="https://github.com/ApexRMS/demosales/releases/download/1.0.1/demosales-1-0-1.ssimpkg"
+  version="1.0.2"
+  location="https://github.com/ApexRMS/demosales/releases/download/1.0.2/demosales-1-0-2.ssimpkg"
   type="Base"
   description="Example SyncroSim Base Package of a very simple sales forecasting model"
   url="https://github.com/ApexRMS/demosales">

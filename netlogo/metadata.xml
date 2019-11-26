@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="netlogo"
+  version="1.1.0"
+  location="https://github.com/ApexRMS/netlogo/releases/download/1.1.0/netlogo-1-1-0.ssimpkg"
+  type="Base"
+  description="Runs the NetLogo agent-based modeling environment"
+  url="https://github.com/ApexRMS/netlogo">
+</package>
