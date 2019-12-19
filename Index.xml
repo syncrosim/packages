@@ -10,10 +10,10 @@
   </package>
   <package
     name="dgsim"
-    version="2.2.5"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.5/dgsim-2-2-5.ssimpkg"
+    version="2.2.7"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.7/dgsim-2-2-7.ssimpkg"
     type="Base"
-    description="Simulates demographics of wildlife populations"
+    description="Simulates demographics of wildlife populations [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
@@ -42,36 +42,36 @@
   </package>
   <package
     name="stsim"
-    version="3.2.11"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.11/stsim-3-2-11.ssimpkg"
+    version="3.2.13"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.13/stsim-3-2-13.ssimpkg"
     type="Base"
-    description="The ST-Sim state-and-transition simulation model"
+    description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     url="https://github.com/ApexRMS/stsim">
   </package>
   <package
     name="stsimdmult"
-    version="3.2.3"
-    location="https://github.com/ApexRMS/stsimdmult/releases/download/3.2.3/stsimdmult-3-2-3.ssimpkg"
+    version="3.2.5"
+    location="https://github.com/ApexRMS/stsimdmult/releases/download/3.2.5/stsimdmult-3-2-5.ssimpkg"
     type="Add-on to stsim"
-    description="Generates dynamic multipliers in ST-Sim"
+    description="Generates dynamic multipliers in ST-Sim [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     requires="stsim"
     url="https://github.com/ApexRMS/stsimdmult">
   </package>
   <package
     name="stsimecodep"
-    version="3.2.3"
-    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.2.3/stsimecodep-3-2-3.ssimpkg"
+    version="3.2.5"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.2.5/stsimecodep-3-2-5.ssimpkg"
     type="Add-on to stsim"
-    description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class"
+    description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     requires="stsim"
     url="https://github.com/ApexRMS/stsimecodep">
   </package>
   <package
     name="stsimsf"
-    version="3.2.8"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.8/stsimsf-3-2-8.ssimpkg"
+    version="3.2.10"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.10/stsimsf-3-2-10.ssimpkg"
     type="Add-on to stsim"
-    description="Integrates stocks and flows into the ST-Sim simulation model"
+    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     requires="stsim"
     url="https://github.com/ApexRMS/stsimsf">
   </package>

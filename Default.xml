@@ -2,15 +2,15 @@
 <packages>
   <package
     name="dgsim"
-    version="2.2.5"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.5/dgsim-2-2-5.ssimpkg"
+    version="2.2.7"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.7/dgsim-2-2-7.ssimpkg"
     description="Simulates demographics of wildlife populations"
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
     name="stsim"
-    version="3.2.11"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.11/stsim-3-2-11.ssimpkg"
+    version="3.2.13"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.13/stsim-3-2-13.ssimpkg"
     description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
   </package>

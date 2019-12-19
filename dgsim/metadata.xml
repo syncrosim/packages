@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="dgsim"
-  version="2.2.5"
-  location="https://github.com/ApexRMS/dgsim/releases/download/2.2.5/dgsim-2-2-5.ssimpkg"
+  version="2.2.7"
+  location="https://github.com/ApexRMS/dgsim/releases/download/2.2.7/dgsim-2-2-7.ssimpkg"
   type="Base"
-  description="Simulates demographics of wildlife populations"
+  description="Simulates demographics of wildlife populations [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
   url="https://github.com/ApexRMS/dgsim">
 </package>
