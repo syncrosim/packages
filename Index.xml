@@ -42,10 +42,10 @@
   </package>
   <package
     name="stsim"
-    version="3.2.13"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.13/stsim-3-2-13.ssimpkg"
+    version="3.2.15"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.15/stsim-3-2-15.ssimpkg"
     type="Base"
-    description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.8 or higher ***]"
     url="https://github.com/ApexRMS/stsim">
   </package>
   <package
@@ -68,10 +68,10 @@
   </package>
   <package
     name="stsimsf"
-    version="3.2.10"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.10/stsimsf-3-2-10.ssimpkg"
+    version="3.2.11"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.11/stsimsf-3-2-11.ssimpkg"
     type="Add-on to stsim"
-    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES stsim v3.2.14 or higher ***]"
     requires="stsim"
     url="https://github.com/ApexRMS/stsimsf">
   </package>
