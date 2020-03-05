@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package
-  name="stsimsf"
-  version="3.2.10"
-  location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.10/stsimsf-3-2-10.ssimpkg"
-  type="Add-on to stsim"
-  description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
-  requires="stsim"
-  url="https://github.com/ApexRMS/stsimsf">
-</package>
+  <package
+    name="stsimsf"
+    version="3.2.11"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.11/stsimsf-3-2-11.ssimpkg"
+    type="Add-on to stsim"
+    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES stsim v3.2.14 or higher ***]"
+    requires="stsim"
+    url="https://github.com/ApexRMS/stsimsf">
+  </package>
