@@ -40,14 +40,14 @@
     description="Runs the NetLogo agent-based modeling environment"
     url="https://github.com/ApexRMS/netlogo">
   </package>
-    <package
-      name="stsim"
-      version="3.2.15"
-      location="https://github.com/ApexRMS/stsim/releases/download/3.2.15/stsim-3-2-15.ssimpkg"
-      type="Base"
-      description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.8 or higher ***]"
-      url="https://github.com/ApexRMS/stsim">
-    </package>
+  <package
+    name="stsim"
+    version="3.2.13"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.13/stsim-3-2-13.ssimpkg"
+    type="Base"
+    description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    url="https://github.com/ApexRMS/stsim">
+  </package>
   <package
     name="stsimecodep"
     version="3.2.5"
@@ -57,13 +57,13 @@
     requires="stsim"
     url="https://github.com/ApexRMS/stsimecodep">
   </package>
-    <package
-      name="stsimsf"
-      version="3.2.11"
-      location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.11/stsimsf-3-2-11.ssimpkg"
-      type="Add-on to stsim"
-      description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES stsim v3.2.14 or higher ***]"
-      requires="stsim"
-      url="https://github.com/ApexRMS/stsimsf">
-    </package>
+  <package
+    name="stsimsf"
+    version="3.2.10"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.10/stsimsf-3-2-10.ssimpkg"
+    type="Add-on to stsim"
+    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    requires="stsim"
+    url="https://github.com/ApexRMS/stsimsf">
+  </package>
 </packages>
