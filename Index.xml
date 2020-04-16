@@ -2,19 +2,27 @@
 <packages>
   <package
     name="demosales"
-    version="1.0.2"
-    location="https://github.com/ApexRMS/demosales/releases/download/1.0.2/demosales-1-0-2.ssimpkg"
+    version="1.0.3"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.0.3/demosales-1-0-3.ssimpkg"
     type="Base"
     description="Example SyncroSim Base Package of a very simple sales forecasting model"
     url="https://github.com/ApexRMS/demosales">
   </package>
   <package
     name="dgsim"
-    version="2.2.7"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.7/dgsim-2-2-7.ssimpkg"
+    version="2.2.8"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.8/dgsim-2-2-8.ssimpkg"
     type="Base"
-    description="Simulates demographics of wildlife populations [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    description="Simulates demographics of wildlife populations"
     url="https://github.com/ApexRMS/dgsim">
+  </package>
+  <package
+    name="epidemic"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.0/epidemic-1-0-0.ssimpkg"
+    type="Base"
+    description="Model of epidemic infections and deaths"
+    url="https://github.com/ApexRMS/epidemic">
   </package>
   <package
     name="gcam"
@@ -43,18 +51,18 @@
   </package>
   <package
     name="netlogo"
-    version="1.1.0"
-    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.0/netlogo-1-1-0.ssimpkg"
+    version="1.1.1"
+    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.1/netlogo-1-1-1.ssimpkg"
     type="Base"
     description="Runs the NetLogo agent-based modeling environment"
     url="https://github.com/ApexRMS/netlogo">
   </package>
   <package
     name="stsim"
-    version="3.2.15"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.15/stsim-3-2-15.ssimpkg"
+    version="3.2.16"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.16/stsim-3-2-16.ssimpkg"
     type="Base"
-    description="The ST-Sim state-and-transition simulation model [*** REQUIRES SyncroSim v2.2.9 or higher ***]"
+    description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
   </package>
   <package
@@ -68,10 +76,10 @@
   </package>
   <package
     name="stsimsf"
-    version="3.2.11"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.11/stsimsf-3-2-11.ssimpkg"
+    version="3.2.12"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.12/stsimsf-3-2-12.ssimpkg"
     type="Add-on to stsim"
-    description="Integrates stocks and flows into the ST-Sim simulation model [*** REQUIRES stsim v3.2.15 or higher ***]"
+    description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
     url="https://github.com/ApexRMS/stsimsf">
   </package>
