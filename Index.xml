@@ -59,8 +59,8 @@
   </package>
   <package
     name="stsim"
-    version="3.2.16"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.16/stsim-3-2-16.ssimpkg"
+    version="3.2.17"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.17/stsim-3-2-17.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
