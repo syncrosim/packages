@@ -18,8 +18,8 @@
   </package>
   <package
     name="epidemic"
-    version="1.0.1"
-    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.1/epidemic-1-0-1.ssimpkg"
+    version="1.0.2"
+    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.2/epidemic-1-0-2.ssimpkg"
     type="Base"
     description="Model of epidemic infections and deaths"
     url="https://github.com/ApexRMS/epidemic">
