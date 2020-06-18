@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="lucas"
-  version="1.0.3"
-  location="https://github.com/bsleeter/lucas/releases/download/1.0.3/lucas-1-0-3.ssimpkg"
+  version="1.0.4"
+  location="https://github.com/bsleeter/lucas/releases/download/1.0.4/lucas-1-0-4.ssimpkg"
   type="Base"
-  description="Land Use and Carbon Scenario Simulator (LUCAS) [*** REQUIRES at least SyncroSim v2.2.10, stsim v3.2.15, and stsimsf v3.2.11 ***]"
+  description="Land Use and Carbon Scenario Simulator (LUCAS)"
   requires="stsim"
   url="https://github.com/bsleeter/lucas">
 </package>
