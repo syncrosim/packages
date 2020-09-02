@@ -2,24 +2,24 @@
 <packages>
   <package
     name="demosales"
-    version="1.0.3"
-    location="https://github.com/ApexRMS/demosales/releases/download/1.0.3/demosales-1-0-3.ssimpkg"
+    version="1.0.4"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.0.4/demosales-1-0-4.ssimpkg"
     type="Base"
     description="Example SyncroSim Base Package of a very simple sales forecasting model"
     url="https://github.com/ApexRMS/demosales">
   </package>
   <package
     name="dgsim"
-    version="2.2.8"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.8/dgsim-2-2-8.ssimpkg"
+    version="2.2.9"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.9/dgsim-2-2-9.ssimpkg"
     type="Base"
     description="Simulates demographics of wildlife populations"
     url="https://github.com/ApexRMS/dgsim">
   </package>
   <package
     name="epidemic"
-    version="1.0.2"
-    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.2/epidemic-1-0-2.ssimpkg"
+    version="1.0.3"
+    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.3/epidemic-1-0-3.ssimpkg"
     type="Base"
     description="Model of epidemic infections and deaths"
     url="https://github.com/ApexRMS/epidemic">
@@ -42,8 +42,8 @@
   </package>
   <package
     name="lucas"
-    version="1.0.4"
-    location="https://github.com/bsleeter/lucas/releases/download/1.0.4/lucas-1-0-4.ssimpkg"
+    version="1.0.5"
+    location="https://github.com/bsleeter/lucas/releases/download/1.0.5/lucas-1-0-5.ssimpkg"
     type="Base"
     description="Land Use and Carbon Scenario Simulator (LUCAS)"
     requires="stsim"
@@ -51,16 +51,16 @@
   </package>
   <package
     name="netlogo"
-    version="1.1.1"
-    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.1/netlogo-1-1-1.ssimpkg"
+    version="1.1.2"
+    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.2/netlogo-1-1-2.ssimpkg"
     type="Base"
     description="Runs the NetLogo agent-based modeling environment"
     url="https://github.com/ApexRMS/netlogo">
   </package>
   <package
     name="stsim"
-    version="3.2.19"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.19/stsim-3-2-19.ssimpkg"
+    version="3.2.21"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.2.21/stsim-3-2-21.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://github.com/ApexRMS/stsim">
@@ -76,8 +76,8 @@
   </package>
   <package
     name="stsimsf"
-    version="3.2.13"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.13/stsimsf-3-2-13.ssimpkg"
+    version="3.2.14"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.14/stsimsf-3-2-14.ssimpkg"
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
