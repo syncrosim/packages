@@ -41,6 +41,14 @@
     url="https://github.com/ApexRMS/helloworld">
   </package>
   <package
+    name="landfirevegmodels"
+    version="1.0.4"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.0.4/landfirevegmodels-1-0-4.ssimpkg"
+    type="Base"
+    description="Landfire vegetation models"
+    url="https://github.com/ApexRMS/landfirevegmodels">
+  </package>
+  <package
     name="lucas"
     version="1.0.5"
     location="https://github.com/bsleeter/lucas/releases/download/1.0.5/lucas-1-0-5.ssimpkg"
