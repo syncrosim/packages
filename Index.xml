@@ -42,8 +42,8 @@
   </package>
   <package
     name="landfirevegmodels"
-    version="1.0.4"
-    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.0.4/landfirevegmodels-1-0-4.ssimpkg"
+    version="1.0.5"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.0.5/landfirevegmodels-1-0-5.ssimpkg"
     type="Base"
     description="Landfire vegetation models"
     url="https://github.com/ApexRMS/landfirevegmodels">
