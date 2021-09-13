@@ -2,51 +2,67 @@
 <packages>
   <package
     name="demosales"
-    version="1.0.4"
-    location="https://github.com/ApexRMS/demosales/releases/download/1.0.4/demosales-1-0-4.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.1.0/demosales-1-1-0.ssimpkg"
     type="Base"
     description="Example SyncroSim Base Package of a very simple sales forecasting model"
-    url="https://github.com/ApexRMS/demosales">
+    url="https://apexrms.github.io/demosales/">
   </package>
   <package
     name="dgsim"
-    version="2.2.9"
-    location="https://github.com/ApexRMS/dgsim/releases/download/2.2.9/dgsim-2-2-9.ssimpkg"
+    version="2.3.0"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.3.0/dgsim-2-3-0.ssimpkg"
     type="Base"
     description="Simulates demographics of wildlife populations"
-    url="https://github.com/ApexRMS/dgsim">
-  </package>
-  <package
-    name="epidemic"
-    version="1.0.3"
-    location="https://github.com/ApexRMS/epidemic/releases/download/1.0.3/epidemic-1-0-3.ssimpkg"
-    type="Base"
-    description="Model of epidemic infections and deaths"
-    url="https://github.com/ApexRMS/epidemic">
-  </package>
-  <package
-    name="gcam"
-    version="1.0.0"
-    location="https://github.com/ApexRMS/gcam/releases/download/1.0.0/gcam-1-0-0.ssimpkg"
-    type="Base"
-    description="Global Change Assessment Model (GCAM)"
-    url="https://github.com/ApexRMS/gcam">
+    url="https://apexrms.github.io/dgsim/">
   </package>
   <package
     name="helloworld"
-    version="1.0.0"
-    location="https://github.com/ApexRMS/helloworld/releases/download/1.0.0/helloworld-1-0-0.ssimpkg"
+    version="1.0.1"
+    location="https://github.com/ApexRMS/helloworld/releases/download/1.0.1/helloworld-1-0-1.ssimpkg"
     type="Base"
-    description="Hello World Package"
-    url="https://github.com/ApexRMS/helloworld">
+    description="Example demonstrating how to create a package"
+    url="https://apexrms.github.io/helloworld/">
+  </package>
+  <package
+    name="helloworldPipeline"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/1.0.0/helloworldPipeline-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using pipelines"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
+    name="helloworldSpatial"
+    version="1.0.1"
+    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.1/helloworldSpatial-1-0-1.ssimpkg"
+    type="Base"
+    description="Example using spatial data"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
+    name="helloworldTime"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/1.0.0/helloworldTime-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using timesteps"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
+    name="helloworldUncertainty"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/1.0.0/helloworldUncertainty-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using iterations to represent uncertainty"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
     name="landfirevegmodels"
-    version="1.0.5"
-    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.0.5/landfirevegmodels-1-0-5.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.1.0/landfirevegmodels-1-1-0.ssimpkg"
     type="Base"
-    description="Landfire vegetation models"
-    url="https://github.com/ApexRMS/landfirevegmodels">
+    description="Land Fire Veg Models"
+    url="https://apexrms.github.io/landfirevegmodels/">
   </package>
   <package
     name="lucas"
@@ -55,40 +71,49 @@
     type="Base"
     description="Land Use and Carbon Scenario Simulator (LUCAS)"
     requires="stsim"
-    url="https://github.com/bsleeter/lucas">
+    url="https://apexrms.github.io/LucasLanding/">
   </package>
   <package
     name="netlogo"
-    version="1.1.2"
-    location="https://github.com/ApexRMS/netlogo/releases/download/1.1.2/netlogo-1-1-2.ssimpkg"
+    version="1.2.0"
+    location="https://github.com/ApexRMS/netlogo/releases/download/1.2.0/netlogo-1-2-0.ssimpkg"
     type="Base"
     description="Runs the NetLogo agent-based modeling environment"
-    url="https://github.com/ApexRMS/netlogo">
+    url="https://apexrms.github.io/netlogo/">
+  </package>
+  <package
+    name="stconnect"
+    version="1.1.14"
+    location="https://github.com/ApexRMS/stconnect/releases/download/1.1.14/stconnect-1-1-14.ssimpkg"
+    description="Connectivity planning for future climate and land-use change"
+    type="Base"
+    requires="stsim"
+    url="https://apexrms.github.io/stconnect/">
   </package>
   <package
     name="stsim"
-    version="3.2.28"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.2.28/stsim-3-2-28.ssimpkg"
+    version="3.3.3"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.3.3/stsim-3-3-3.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
-    url="https://github.com/ApexRMS/stsim">
+    url="https://docs.stsim.net/">
   </package>
   <package
     name="stsimecodep"
-    version="3.2.5"
-    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.2.5/stsimecodep-3-2-5.ssimpkg"
+    version="3.3.0"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.0/stsimecodep-3-3-0.ssimpkg"
     type="Add-on to stsim"
     description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     requires="stsim"
-    url="https://github.com/ApexRMS/stsimecodep">
+    url="https://docs.stsim.net/">
   </package>
   <package
     name="stsimsf"
-    version="3.2.17"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.2.17/stsimsf-3-2-17.ssimpkg"
+    version="3.3.1"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.1/stsimsf-3-3-1.ssimpkg"
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
-    url="https://github.com/ApexRMS/stsimsf">
+    url="https://docs.stsim.net/">
   </package>
 </packages>

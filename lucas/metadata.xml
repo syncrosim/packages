@@ -6,5 +6,5 @@
   type="Base"
   description="Land Use and Carbon Scenario Simulator (LUCAS)"
   requires="stsim"
-  url="https://github.com/bsleeter/lucas">
+  url="https://apexrms.github.io/LucasLanding/">
 </package>
