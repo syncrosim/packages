@@ -114,6 +114,6 @@
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
-    url="https://docs.stsim.net/">
+    url="https://apexrms.github.io/stsimsf/">
   </package>
 </packages>
