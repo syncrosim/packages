@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="helloworldSpatial"
-  version="1.0.1"
-  location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.1/helloworldSpatial-1-0-1.ssimpkg"
+  version="1.0.2"
+  location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.2/helloworldSpatial-1-0-2.ssimpkg"
   type="Base"
   description="Example using spatial data"
   url="https://apexrms.github.io/helloworldEnhanced/">
