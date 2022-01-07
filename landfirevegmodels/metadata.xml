@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="landfirevegmodels"
-  version="1.1.1"
-  location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.1.1/landfirevegmodels-1-1-1.ssimpkg"
+  version="1.1.0"
+  location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.1.0/landfirevegmodels-1-1-0.ssimpkg"
   type="Base"
   description="LANDFIRE vegetation models"
   url="https://apexrms.github.io/landfirevegmodels/">
