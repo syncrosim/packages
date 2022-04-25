@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="epi"
+  version="1.1.1"
+  location="https://github.com/ApexRMS/epi/releases/download/1.1.1/epi-1-1-1.ssimpkg"
+  type="Base"
+  description="Model of epidemic infections and deaths">
+</package>

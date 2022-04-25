@@ -17,6 +17,21 @@
     url="https://apexrms.github.io/dgsim/">
   </package>
   <package
+    name="epi"
+    version="1.1.1"
+    location="https://github.com/ApexRMS/epi/releases/download/1.1.1/epi-1-1-1.ssimpkg"
+    type="Base"
+    description="Model of epidemic infections and deaths">
+  </package>
+  <package
+    name="epiModelVocVaccine"
+    version="1.1.1"
+    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.1/epiModelVocVaccine-1-0-1.ssimpkg"
+    type="Base"
+    description="Integrates VOCs and vaccination into the Epidemic model"
+    requires="epi">
+  </package>
+  <package
     name="helloworld"
     version="1.0.1"
     location="https://github.com/ApexRMS/helloworld/releases/download/1.0.1/helloworld-1-0-1.ssimpkg"
