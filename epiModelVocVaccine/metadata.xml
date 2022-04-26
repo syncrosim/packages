@@ -6,5 +6,5 @@
   type="Base"
   description="Integrates VOCs and vaccination into the Epidemic model"
   requires="epi"
-  url="https://github.com/ApexRMS/epiModelVocVaccine">
+  url="https://github.com/ApexRMS/epiModelVocVaccine/">
 </package>
