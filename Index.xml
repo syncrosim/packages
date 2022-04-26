@@ -26,9 +26,9 @@
   </package>
   <package
     name="epiModelVocVaccine"
-    version="1.1.1"
+    version="1.0.1"
     location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.1/epiModelVocVaccine-1-0-1.ssimpkg"
-    type="Base"
+    type="Add-on to epi"
     description="Integrates VOCs and vaccination into the Epidemic model"
     requires="epi"
     url="https://github.com/ApexRMS/epiModelVocVaccine/">
