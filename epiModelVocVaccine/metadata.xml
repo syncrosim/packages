@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="epiModelVocVaccine"
-  version="1.0.1"
-  location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.1/epiModelVocVaccine-1-0-1.ssimpkg"
+  version="1.0.2"
+  location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.2/epiModelVocVaccine-1-0-2.ssimpkg"
   type="Add-on to epi"
-  description="Integrates VOCs and vaccination into the Epidemic model"
+  description="Integrates VOCs and vaccination into the Epi model"
   requires="epi"
-  url="https://github.com/ApexRMS/epiModelVocVaccine/">
+  url="https://apexrms.github.io/epi/">
 </package>

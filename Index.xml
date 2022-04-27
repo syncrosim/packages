@@ -18,20 +18,20 @@
   </package>
   <package
     name="epi"
-    version="1.1.1"
-    location="https://github.com/ApexRMS/epi/releases/download/1.1.1/epi-1-1-1.ssimpkg"
+    version="1.1.3"
+    location="https://github.com/ApexRMS/epi/releases/download/1.1.3/epi-1-1-3.ssimpkg"
     type="Base"
     description="Model of epidemic infections and deaths"
-    url="https://github.com/ApexRMS/epi/">
+    url="https://apexrms.github.io/epi/">
   </package>
   <package
     name="epiModelVocVaccine"
-    version="1.0.1"
-    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.1/epiModelVocVaccine-1-0-1.ssimpkg"
+    version="1.0.2"
+    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.2/epiModelVocVaccine-1-0-2.ssimpkg"
     type="Add-on to epi"
-    description="Integrates VOCs and vaccination into the Epidemic model"
+    description="Integrates VOCs and vaccination into the Epi model"
     requires="epi"
-    url="https://github.com/ApexRMS/epiModelVocVaccine/">
+    url="https://apexrms.github.io/epi/">
   </package>
   <package
     name="helloworld"
