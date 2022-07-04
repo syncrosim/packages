@@ -109,8 +109,8 @@
   </package>
   <package
     name="stsim"
-    version="3.3.7"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.3.7/stsim-3-3-7.ssimpkg"
+    version="3.3.8"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.3.8/stsim-3-3-8.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://docs.stsim.net/">
@@ -135,8 +135,8 @@
   </package>
   <package
     name="stsimsf"
-    version="3.3.6"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.6/stsimsf-3-3-6.ssimpkg"
+    version="3.3.7"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.7/stsimsf-3-3-7.ssimpkg"
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
