@@ -126,8 +126,8 @@
   </package>
   <package
     name="stsimecodep"
-    version="3.3.0"
-    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.0/stsimecodep-3-3-0.ssimpkg"
+    version="3.3.1"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.1/stsimecodep-3-3-1.ssimpkg"
     type="Add-on to stsim"
     description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
     requires="stsim"
