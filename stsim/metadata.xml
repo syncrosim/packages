@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="stsim"
-  version="3.3.8"
-  location="https://github.com/ApexRMS/stsim/releases/download/3.3.8/stsim-3-3-8.ssimpkg"
+  version="3.3.9"
+  location="https://github.com/ApexRMS/stsim/releases/download/3.3.9/stsim-3-3-9.ssimpkg"
   type="Base"
   description="The ST-Sim state-and-transition simulation model"
   url="https://docs.stsim.net/">
