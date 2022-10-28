@@ -2,7 +2,7 @@
 <package
   	name="burnP3Plus"
  	version="0.4.0"
-  	location="https://github.com/ApexRMS/burnP3Plus/releases/download/0.4.0/burnP3Plus-0-4-0.ssimpkg"
+  	location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.0/burnP3Plus-0-4-0.ssimpkg"
   	type="Base"
   	description="Burn-P3+ package for burn probability modeling"
   	url="https://burnp3.github.io/BurnP3Plus/">
