@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package
   	name="burnP3Plus"
- 	version="0.4.1"
-  	location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.1/burnP3Plus-0-4-1.ssimpkg"
+ 	version="0.4.2"
+  	location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.2/burnP3Plus-0-4-2.ssimpkg"
   	type="Base"
   	description="Burn-P3+ package for burn probability modeling"
   	url="https://burnp3.github.io/BurnP3Plus/">
