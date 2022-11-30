@@ -1,45 +1,179 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <packages>
-  <package name="burnP3Plus" version="0.4.3" location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.3/burnP3Plus-0-4-3.ssimpkg" type="Base" description="Burn-P3+ package for burn probability modeling" url="https://burnp3.github.io/BurnP3Plus/">
+  <package 
+      name="burnP3Plus" 
+      version="0.4.3" 
+      location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.3/burnP3Plus-0-4-3.ssimpkg" 
+      type="Base" 
+      description="Burn-P3+ package for burn probability modeling" 
+      url="https://burnp3.github.io/BurnP3Plus/">
   </package>
-  <package name="burnP3PlusCell2Fire" version="0.4.3" location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/0.4.3/burnP3PlusCell2Fire-0-4-3.ssimpkg" type="Add-on to burnP3Plus" description="Cell2Fire fire growth model add-on package for BurnP3+" requires="burnP3Plus" url="https://github.com/BurnP3/BurnP3PlusCell2Fire">
+  <package
+    	name="burnP3PlusCell2Fire"
+   	version="0.4.3"
+    	location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/0.4.3/burnP3PlusCell2Fire-0-4-3.ssimpkg"
+    	type="Add-on to burnP3Plus"
+    	description="Cell2Fire fire growth model add-on package for BurnP3+"
+  	requires="burnP3Plus"
+    	url="https://github.com/BurnP3/BurnP3PlusCell2Fire">
   </package>
-  <package name="burnP3PlusPrometheus" version="0.4.3" location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/0.4.3/burnP3PlusPrometheus-0-4-3.ssimpkg" type="Add-on to burnP3Plus" description="Prometheus fire growth model add-on package for BurnP3+" requires="burnP3Plus" url="https://github.com/burnp3/burnp3plusprometheus">
+  <package
+    	name="burnP3PlusPrometheus"
+   	version="0.4.3"
+    	location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/0.4.3/burnP3PlusPrometheus-0-4-3.ssimpkg"
+    	type="Add-on to burnP3Plus"
+    	description="Prometheus fire growth model add-on package for BurnP3+"
+  	requires="burnP3Plus"
+    	url="https://github.com/burnp3/burnp3plusprometheus">
   </package>
-  <package name="demosales" version="1.1.0" location="https://github.com/ApexRMS/demosales/releases/download/1.1.0/demosales-1-1-0.ssimpkg" type="Base" description="Example SyncroSim Base Package of a very simple sales forecasting model" url="https://apexrms.github.io/demosales/">
+  <package
+    name="demosales"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/demosales/releases/download/1.1.0/demosales-1-1-0.ssimpkg"
+    type="Base"
+    description="Example SyncroSim Base Package of a very simple sales forecasting model"
+    url="https://apexrms.github.io/demosales/">
   </package>
-  <package name="dgsim" version="2.3.0" location="https://github.com/ApexRMS/dgsim/releases/download/2.3.0/dgsim-2-3-0.ssimpkg" type="Base" description="Simulates demographics of wildlife populations" url="https://apexrms.github.io/dgsim/">
+  <package
+    name="dgsim"
+    version="2.3.0"
+    location="https://github.com/ApexRMS/dgsim/releases/download/2.3.0/dgsim-2-3-0.ssimpkg"
+    type="Base"
+    description="Simulates demographics of wildlife populations"
+    url="https://apexrms.github.io/dgsim/">
   </package>
-  <package name="epi" version="1.1.3" location="https://github.com/ApexRMS/epi/releases/download/1.1.3/epi-1-1-3.ssimpkg" type="Base" description="Model of epidemic infections and deaths" url="https://apexrms.github.io/epi/">
+  <package
+    name="epi"
+    version="1.1.3"
+    location="https://github.com/ApexRMS/epi/releases/download/1.1.3/epi-1-1-3.ssimpkg"
+    type="Base"
+    description="Model of epidemic infections and deaths"
+    url="https://apexrms.github.io/epi/">
   </package>
-  <package name="epiModelVocVaccine" version="1.0.2" location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.2/epiModelVocVaccine-1-0-2.ssimpkg" type="Add-on to epi" description="Integrates VOCs and vaccination into the Epi model" requires="epi" url="https://apexrms.github.io/epi/">
+  <package
+    name="epiModelVocVaccine"
+    version="1.0.2"
+    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.2/epiModelVocVaccine-1-0-2.ssimpkg"
+    type="Add-on to epi"
+    description="Integrates VOCs and vaccination into the Epi model"
+    requires="epi"
+    url="https://apexrms.github.io/epi/">
   </package>
-  <package name="helloworld" version="1.0.1" location="https://github.com/ApexRMS/helloworld/releases/download/1.0.1/helloworld-1-0-1.ssimpkg" type="Base" description="Example demonstrating how to create a package" url="https://apexrms.github.io/helloworld/">
+  <package
+    name="helloworld"
+    version="1.0.1"
+    location="https://github.com/ApexRMS/helloworld/releases/download/1.0.1/helloworld-1-0-1.ssimpkg"
+    type="Base"
+    description="Example demonstrating how to create a package"
+    url="https://apexrms.github.io/helloworld/">
   </package>
-  <package name="helloworldConda" version="1.0.0" location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.0/helloworldConda-1-0-0.ssimpkg" type="Base" description="Example using conda environments" url="https://apexrms.github.io/helloworldEnhanced/">
+  <package
+    name="helloworldConda"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.0/helloworldConda-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using conda environments"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
-  <package name="helloworldPipeline" version="1.0.0" location="https://github.com/ApexRMS/helloworldPipeline/releases/download/1.0.0/helloworldPipeline-1-0-0.ssimpkg" type="Base" description="Example using pipelines" url="https://apexrms.github.io/helloworldEnhanced/">
+  <package
+    name="helloworldPipeline"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/1.0.0/helloworldPipeline-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using pipelines"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
-  <package name="helloworldSpatial" version="1.0.4" location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.4/helloworldSpatial-1-0-4.ssimpkg" type="Base" description="Example using spatial data" url="https://apexrms.github.io/helloworldEnhanced/">
+  <package
+    name="helloworldSpatial"
+    version="1.0.4"
+    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.4/helloworldSpatial-1-0-4.ssimpkg"
+    type="Base"
+    description="Example using spatial data"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
-  <package name="helloworldTime" version="1.0.0" location="https://github.com/ApexRMS/helloworldTime/releases/download/1.0.0/helloworldTime-1-0-0.ssimpkg" type="Base" description="Example using timesteps" url="https://apexrms.github.io/helloworldEnhanced/">
+  <package
+    name="helloworldTime"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldTime/releases/download/1.0.0/helloworldTime-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using timesteps"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
-  <package name="helloworldUncertainty" version="1.0.0" location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/1.0.0/helloworldUncertainty-1-0-0.ssimpkg" type="Base" description="Example using iterations to represent uncertainty" url="https://apexrms.github.io/helloworldEnhanced/">
+  <package
+    name="helloworldUncertainty"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/1.0.0/helloworldUncertainty-1-0-0.ssimpkg"
+    type="Base"
+    description="Example using iterations to represent uncertainty"
+    url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
-  <package name="landfirevegmodels" version="1.1.1" location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.1.1/landfirevegmodels-1-1-1.ssimpkg" type="Base" description="LANDFIRE vegetation models" url="https://apexrms.github.io/landfirevegmodels/">
+  <package
+    name="landfirevegmodels"
+    version="1.1.1"
+    location="https://github.com/ApexRMS/landfirevegmodels/releases/download/1.1.1/landfirevegmodels-1-1-1.ssimpkg"
+    type="Base"
+    description="LANDFIRE vegetation models"
+    url="https://apexrms.github.io/landfirevegmodels/">
   </package>
-  <package name="lucas" version="1.0.6" location="https://github.com/bsleeter/lucas/releases/download/1.0.6/lucas-1-0-6.ssimpkg" type="Base" description="Land Use and Carbon Scenario Simulator (LUCAS)" requires="stsim" url="https://apexrms.github.io/LucasLanding/">
+  <package
+    name="lucas"
+    version="1.0.6"
+    location="https://github.com/bsleeter/lucas/releases/download/1.0.6/lucas-1-0-6.ssimpkg"
+    type="Base"
+    description="Land Use and Carbon Scenario Simulator (LUCAS)"
+    requires="stsim"
+    url="https://apexrms.github.io/LucasLanding/">
   </package>
-  <package name="netlogo" version="1.2.0" location="https://github.com/ApexRMS/netlogo/releases/download/1.2.0/netlogo-1-2-0.ssimpkg" type="Base" description="Runs the NetLogo agent-based modeling environment" url="https://apexrms.github.io/netlogo/">
+  <package
+    name="netlogo"
+    version="1.2.0"
+    location="https://github.com/ApexRMS/netlogo/releases/download/1.2.0/netlogo-1-2-0.ssimpkg"
+    type="Base"
+    description="Runs the NetLogo agent-based modeling environment"
+    url="https://apexrms.github.io/netlogo/">
   </package>
-  <package name="stconnect" version="1.1.17" location="https://github.com/ApexRMS/stconnect/releases/download/1.1.17/stconnect-1-1-17.ssimpkg" description="Connectivity planning for future climate and land-use change" type="Base" requires="stsim" url="https://apexrms.github.io/stconnect/">
+  <package
+    name="stconnect"
+    version="1.1.17"
+    location="https://github.com/ApexRMS/stconnect/releases/download/1.1.17/stconnect-1-1-17.ssimpkg"
+    description="Connectivity planning for future climate and land-use change"
+    type="Base"
+    requires="stsim"
+    url="https://apexrms.github.io/stconnect/">
   </package>
-  <package name="stsim" version="3.3.10" location="https://github.com/ApexRMS/stsim/releases/download/3.3.10/stsim-3-3-10.ssimpkg" type="Base" description="The ST-Sim state-and-transition simulation model" url="https://docs.stsim.net/">
+  <package
+    name="stsim"
+    version="3.3.10"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.3.10/stsim-3-3-10.ssimpkg"
+    type="Base"
+    description="The ST-Sim state-and-transition simulation model"
+    url="https://docs.stsim.net/">
   </package>
-  <package name="stsimcbmcfs3" version="1.0.15" location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.15/stsimcbmcfs3-1-0-15.ssimpkg" type="Add-on to stsim" description="Integrates the Carbon Budget Model for the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model" requires="stsim" url="https://apexrms.github.io/stsimcbmcfs3/">
+  <package
+    name="stsimcbmcfs3"
+    version="1.0.15"
+    location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.15/stsimcbmcfs3-1-0-15.ssimpkg"
+    type="Add-on to stsim"
+    description="Integrates the Carbon Budget Model for the Canadian Forest Sector (CBM-CFS3) into the ST-Sim simulation model"
+    requires="stsim"
+    url="https://apexrms.github.io/stsimcbmcfs3/">
   </package>
-  <package name="stsimecodep" version="3.3.1" location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.1/stsimecodep-3-3-1.ssimpkg" type="Add-on to stsim" description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class [*** REQUIRES SyncroSim v2.2.3 or higher ***]" requires="stsim" url="https://docs.stsim.net/">
+  <package
+    name="stsimecodep"
+    version="3.3.1"
+    location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.1/stsimecodep-3-3-1.ssimpkg"
+    type="Add-on to stsim"
+    description="Calculates ecological departure in ST-Sim using the LANDFIRE Fire Regime Condition Class [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    requires="stsim"
+    url="https://docs.stsim.net/">
   </package>
-  <package name="stsimsf" version="3.3.8" location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.8/stsimsf-3-3-8.ssimpkg" type="Add-on to stsim" description="Integrates stocks and flows into the ST-Sim simulation model" requires="stsim" url="https://apexrms.github.io/stsimsf/">
+  <package
+    name="stsimsf"
+    version="3.3.8"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.8/stsimsf-3-3-8.ssimpkg"
+    type="Add-on to stsim"
+    description="Integrates stocks and flows into the ST-Sim simulation model"
+    requires="stsim"
+    url="https://apexrms.github.io/stsimsf/">
   </package>
 </packages>
