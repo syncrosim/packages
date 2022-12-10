@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package
   name="burnP3PlusPrometheus"
-  version="0.4.3"
-  location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/0.4.3/burnP3PlusPrometheus-0-4-3.ssimpkg"
+  version="0.4.4"
+  location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/0.4.4/burnP3PlusPrometheus-0-4-4.ssimpkg"
   type="Add-on to burnP3Plus"
   description="Prometheus fire growth model add-on package for BurnP3+"
   requires="burnP3Plus"
