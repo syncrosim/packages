@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package 
+  name="omniscape" 
+  version="1.0.0" 
+  location="https://github.com/ApexRMS/omniscape/releases/download/1.0.0/omniscape-1-0-0.ssimpkg" 
+  type="Base" 
+  description="Omni-directional habitat connectivity based on circuit theory" 
+  url="https://apexrms.github.io/omniscape/">
+</package>

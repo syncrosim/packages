@@ -132,6 +132,14 @@
     description="Runs the NetLogo agent-based modeling environment"
     url="https://apexrms.github.io/netlogo/">
   </package>
+  <package 
+    name="omniscape" 
+    version="1.0.0" 
+    location="https://github.com/ApexRMS/omniscape/releases/download/1.0.0/omniscape-1-0-0.ssimpkg" 
+    type="Base" 
+    description="Omni-directional habitat connectivity based on circuit theory" 
+    url="https://apexrms.github.io/omniscape/">
+  </package>
   <package
     name="stconnect"
     version="1.1.17"
