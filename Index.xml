@@ -158,6 +158,15 @@
     url="https://docs.stsim.net/">
   </package>
   <package
+    name="stsimBurnP3Plus"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/stsimBurnP3Plus/releases/download/1.0.0/stsimBurnP3Plus-1-0-0.ssimpkg"
+    type="Add-on to stsim"
+    description="Example library simulating ST-Sim fire events with the BurnP3+ SyncroSim package"
+    requires="stsim"
+    url="https://apexrms.github.io/stsimBurnP3Plus/">
+  </package>
+  <package
     name="stsimcbmcfs3"
     version="1.0.15"
     location="https://github.com/ApexRMS/stsimcbmcfs3/releases/download/1.0.15/stsimcbmcfs3-1-0-15.ssimpkg"
