@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="stconnect"
-  version="1.1.17"
-  location="https://github.com/ApexRMS/stconnect/releases/download/1.1.17/stconnect-1-1-17.ssimpkg"
+  version="1.1.18"
+  location="https://github.com/ApexRMS/stconnect/releases/download/1.1.18/stconnect-1-1-18.ssimpkg"
   description="Connectivity planning for future climate and land-use change"
   type="Base"
   requires="stsim"
