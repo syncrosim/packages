@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="stsimBurnP3Plus"
-  version="1.0.0"
-  location="https://github.com/ApexRMS/stsimBurnP3Plus/releases/download/1.0.0/stsimBurnP3Plus-1-0-0.ssimpkg"
+  version="1.0.1"
+  location="https://github.com/ApexRMS/stsimBurnP3Plus/releases/download/1.0.1/stsimBurnP3Plus-1-0-1.ssimpkg"
   type="Add-on to stsim"
   description="Example library simulating ST-Sim fire events with the BurnP3+ SyncroSim package"
   requires="stsim"
