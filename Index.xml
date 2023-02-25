@@ -151,8 +151,8 @@
   </package>
   <package
     name="stsim"
-    version="3.3.11"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.3.11/stsim-3-3-11.ssimpkg"
+    version="3.3.12"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.3.12/stsim-3-3-12.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
     url="https://docs.stsim.net/">
