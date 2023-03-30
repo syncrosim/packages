@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package
-  	name="prioritizr"
- 	version="1.0.0"
-  	location="https://github.com/ApexRMS/prioritizr/releases/download/1.0.0/prioritizr-1-0-0.ssimpkg"
-  	type="Base"
-  	description="Systematic Conservation Prioritization"
-  	url="https://apexrms.github.io/prioritizr/">
-</package>
