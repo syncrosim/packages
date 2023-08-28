@@ -69,8 +69,8 @@
   </package>
   <package
     name="helloworldConda"
-    version="1.0.1"
-    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.1/helloworldConda-1-0-1.ssimpkg"
+    version="1.0.2"
+    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.2/helloworldConda-1-0-2.ssimpkg"
     type="Base"
     description="Example using conda environments"
     url="https://apexrms.github.io/helloworldEnhanced/">
