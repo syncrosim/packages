@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package
   name="wisdm"
-  version="1.0.9"
-  location="https://github.com/ApexRMS/wisdm/releases/download/1.0.9/wisdm-1-0-9.ssimpkg"
+  version="1.0.13"
+  location="https://github.com/ApexRMS/wisdm/releases/download/1.0.13/wisdm-1-0-13.ssimpkg"
   type="Base"
   description="Workbench for Integrated Species Distribution Modeling"
   url="https://apexrms.github.io/wisdm/">

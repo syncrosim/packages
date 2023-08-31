@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package
+  name="designer"
+  version="1.0.19"
+  location="https://syncrosim.com/designer-1-0-19.ssimpkg"
+  type="Base"
+  description="SyncroSim Package Designer"
+  url="https://syncrosim.com/designer">
+</package>
