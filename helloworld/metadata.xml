@@ -4,6 +4,6 @@
   version="1.0.1"
   location="https://github.com/ApexRMS/helloworld/releases/download/1.0.1/helloworld-1-0-1.ssimpkg"
   type="Base"
-  description="Example demonstrating how to create a package"
+  description="Example demonstrating how to create a package!"
   url="https://apexrms.github.io/helloworld/">
 </package>
