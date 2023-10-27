@@ -194,8 +194,8 @@
   </package>
   <package
     name="stsimsf"
-    version="3.3.14"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.14/stsimsf-3-3-14.ssimpkg"
+    version="3.3.15"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.15/stsimsf-3-3-15.ssimpkg"
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
     requires="stsim"
