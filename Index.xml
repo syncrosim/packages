@@ -142,10 +142,19 @@
   </package>
   <package 
     name="omniscape" 
-    version="1.0.2" 
-    location="https://github.com/ApexRMS/omniscape/releases/download/1.0.2/omniscape-1-0-2.ssimpkg" 
+    version="1.1.0" 
+    location="https://github.com/ApexRMS/omniscape/releases/download/1.1.0/omniscape-1-1-0.ssimpkg" 
     type="Base" 
     description="Omni-directional habitat connectivity based on circuit theory" 
+    url="https://apexrms.github.io/omniscape/">
+  </package>
+  <package 
+    name="omniscapeImpact" 
+    version="1.0.0" 
+    location="https://github.com/ApexRMS/omniscapeImpact/releases/download/1.0.0/omniscapeImpact-1-0-0.ssimpkg" 
+    type="Add-on to omniscape" 
+    description="Calculates changes in connectivity categories from a baseline" 
+    requires="omniscape"
     url="https://apexrms.github.io/omniscape/">
   </package>
   <package
