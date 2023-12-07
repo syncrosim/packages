@@ -2,16 +2,16 @@
 <packages>
   <package 
     name="burnP3Plus" 
-    version="0.4.3" 
-    location="https://github.com/BurnP3/BurnP3Plus/releases/download/0.4.3/burnP3Plus-0-4-3.ssimpkg" 
+    version="1.0.0" 
+    location="https://github.com/BurnP3/BurnP3Plus/releases/download/1.0.0/burnP3Plus-1-0-0.ssimpkg" 
     type="Base" 
     description="Burn-P3+ package for burn probability modeling" 
     url="https://burnp3.github.io/BurnP3Plus/">
   </package>
   <package
     name="burnP3PlusCell2Fire"
-    version="0.4.4"
-    location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/0.4.4/burnP3PlusCell2Fire-0-4-4.ssimpkg"
+    version="1.0.0"
+    location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/1.0.0/burnP3PlusCell2Fire-1-0-0.ssimpkg"
     type="Add-on to burnP3Plus"
     description="Cell2Fire fire growth model add-on package for BurnP3+"
     requires="burnP3Plus"
@@ -19,8 +19,8 @@
   </package>
   <package
     name="burnP3PlusPrometheus"
-    version="0.4.4"
-    location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/0.4.4/burnP3PlusPrometheus-0-4-4.ssimpkg"
+    version="1.0.0"
+    location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/1.0.0/burnP3PlusPrometheus-1-0-0.ssimpkg"
     type="Add-on to burnP3Plus"
     description="Prometheus fire growth model add-on package for BurnP3+"
     requires="burnP3Plus"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package
   name="burnP3PlusCell2Fire"
-  version="0.4.4"
-  location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/0.4.4/burnP3PlusCell2Fire-0-4-4.ssimpkg"
+  version="1.0.0"
+  location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/1.0.0/burnP3PlusCell2Fire-1-0-0.ssimpkg"
   type="Add-on to burnP3Plus"
   description="Cell2Fire fire growth model add-on package for BurnP3+"
   requires="burnP3Plus"
