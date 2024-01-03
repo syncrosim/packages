@@ -52,11 +52,10 @@
   </package>
   <package
     name="epi"
-    version="1.2.0"
-    location="https://github.com/ApexRMS/epi/releases/download/1.2.0/epi-1-2-0.ssimpkg"
+    version="1.1.3"
+    location="https://github.com/ApexRMS/epi/releases/download/1.1.3/epi-1-1-3.ssimpkg"
     type="Base"
     description="Model of epidemic infections and deaths"
-  	minSyncroSimVersion="2.5.0"
     url="https://apexrms.github.io/epi/">
   </package>
   <package
@@ -169,11 +168,10 @@
   </package>
   <package
     name="stsim"
-    version="3.4.0"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.4.0/stsim-3-4-0.ssimpkg"
+    version="3.3.14"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.3.14/stsim-3-3-14.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
-  	minSyncroSimVersion="2.5.0"
     url="https://docs.stsim.net/">
   </package>
   <package
@@ -205,11 +203,10 @@
   </package>
   <package
     name="stsimsf"
-    version="3.4.0"
-    location="https://github.com/ApexRMS/stsimsf/releases/download/3.4.0/stsimsf-3-4-0.ssimpkg"
+    version="3.3.15"
+    location="https://github.com/ApexRMS/stsimsf/releases/download/3.3.15/stsimsf-3-3-15.ssimpkg"
     type="Add-on to stsim"
     description="Integrates stocks and flows into the ST-Sim simulation model"
-  	minSyncroSimVersion="2.5.0"
     requires="stsim"
     url="https://apexrms.github.io/stsimsf/">
   </package>
