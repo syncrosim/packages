@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="dgsim"
-  version="2.3.3"
-  location="https://github.com/ApexRMS/dgsim/releases/download/2.3.3/dgsim-2-3-3.ssimpkg"
+  version="2.3.4"
+  location="https://github.com/ApexRMS/dgsim/releases/download/2.3.4/dgsim-2-3-4.ssimpkg"
   type="Base"
   description="Simulates demographics of wildlife populations"
   url="https://apexrms.github.io/dgsim/">
